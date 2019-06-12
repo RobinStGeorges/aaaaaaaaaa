@@ -76,8 +76,9 @@ hwi_oauth:
     resource_owners:
             google:
                 type:                google
-                client_id:           946181779163-optor98nos4of903ir0459pabku6qjps.apps.googleusercontent.com
-                client_secret:       _kXWQOod--fHepQNoz1LNP1W
+                client_id:           162217830714-lo7rtp46bicpog4dvfirai9k31eaha61.apps.googleusercontent.com
+                client_secret:       L8ciR_GGkBGH7pWnK1UCqKHu
+
                 scope:               "email profile"
                 options:
                                 csrf: true
